@@ -1,0 +1,21 @@
+# Core scientific stack
+numpy>=1.26
+pandas>=2.0
+scipy>=1.11
+
+# Modelling
+scikit-learn>=1.3
+xgboost>=2.0
+
+# Explanations
+shap>=0.44
+lime>=0.2.0.1
+
+# Plotting, IO, dataset build
+matplotlib>=3.7
+joblib>=1.3
+requests>=2.31
+
+# Notebook
+jupyter>=1.0
+ipykernel>=6.25
